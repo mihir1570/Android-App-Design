@@ -1,0 +1,124 @@
+<resources>
+
+    <string name="app_name">GoBid</string>
+    <string name="logo_name">Bid With GoBid</string>
+    <string name="slogan_name">Get the best deals with GoBid - Your ultimate bidding platform</string>
+    <string name="powered_by">your ultimate bidding bed form</string>
+
+
+    <!--        Strings for on Boarding Screen-->
+
+    <!--        Titles-->
+    <string name="first_slide_title">Search Your Bid</string>
+    <string name="second_slide_title">Make A Bid</string>
+    <string name="third_slide_title">New Auctions</string>
+    <string name="fourth_slide_title">Place A Bid And Enjoy</string>
+
+    <!--    Description-->
+    <string name="first_slide_desc">Open the application where you want to search for the bid.Look for a search bar or search function within the application. </string>
+    <string name="second_slide_desc">Register If you haven not already done ,Browse: Browse the available items or projects that are up for auction or bidding. </string>
+    <string name="third_slide_desc">Open the application where you want to upload your item for auction.Navigate to the section of the application where you can create a new auction listing or upload an item for auction.</string>
+    <string name="fourth_slide_desc">Placing a bid can be an exhilarating experience, full of anticipation and excitement. Its the moment when you declare your interest in something and put forth your best effort to secure it.</string>
+
+    <!--    Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!--    String For DashBoard-->
+
+    <!--    Categories-->
+    <string name="art">Art</string>
+    <string name="electronics">Electronics</string>
+    <string name="sports">Sports</string>
+    <string name="memorabilia">Memorabilia</string>
+    <string name="music">Music</string>
+
+    <!--    Titles and Descriptions-->
+    <string name="featured_auctions">All Featured Auctions</string>
+    <string name="featured_auctions_description">All Featured Auctions that are rare and have the top demand !</string>
+    <string name="most_viewed_auction">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+
+    <!--    main menu-->
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="all_categories">Categories</string>
+    <string name="help">Help/FAQ</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="menu_art">Art</string>
+    <string name="menu_sport">Sport</string>
+    <string name="menu_memorabilia">Memorabilia</string>
+    <string name="menu_electronic">Electronics</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">RateUs</string>
+
+
+    <!--    All Categories-->
+
+    <string name="car_rent">Car Auction</string>
+    <string name="expand_all">EXPAND ALL</string>
+    <string name="bid2">Lets Bid</string>
+    <string name="expert_guide">Expert Guide</string>
+    <string name="mystery_box">Mystery BOX</string>
+
+
+    <!--    TODO: Retailer Panel String -->
+
+    <!--    General Strings-->
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow\nYour Bid</string>
+    <string name="retailer_tag_line">We will help you to choose your right Bid</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="hoe_we_work">How we Work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+
+
+    <!--    LoginSignup-->
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+
+    <!--    OTP Screen-->
+    <string name="todo">OTP</string>
+    <string name="otp_code_text">Code</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on\n+917284404590</string>
+    <string name="verify_code">Verify Code</string>
+
+    <!--    Forget Password-->
+
+    <string name="forget_password_detail">Provide your email account detail for which you want to reset your password!</string>
+
+    <!--    Make Selection-->
+
+    <string name="make_selection">Make Selection</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your password?</string>
+    <string name="via_sms">via sms:</string>
+    <string name="via_mail">via mail:</string>
+
+    <!--    SetNewPassword-->
+
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_detail">Your identity has been verified! set your new password </string>
+
+
+<!--    Success Message-->
+
+    <string name="password_updated">Password Updated</string>
+    <string name="password_updated_success_message">Your password has been updated</string>
+
+</resources>
